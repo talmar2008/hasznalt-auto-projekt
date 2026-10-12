@@ -1,0 +1,11 @@
+id;marka;modell;evjarat;ar;kilometer;uzemanyag;teljesitmeny
+1;Toyota;Corolla;2020;5490000;78500;Benzin;132
+2;Volkswagen;Golf;2019;4990000;92300;Dízel;150
+3;Ford;Focus;2021;5790000;45200;Benzin;125
+4;BMW;320i;2018;7290000;106500;Benzin;184
+5;Skoda;Octavia;2022;6490000;38100;Benzin;150
+6;Audi;A4;2020;7990000;67400;Dízel;163
+7;Mercedes-Benz;A180;2019;6990000;55200;Benzin;136
+8;Kia;Ceed;2021;5290000;41700;Benzin;120
+9;Hyundai;i30;2020;4690000;63800;Benzin;140
+10;Opel;Astra;2018;3890000;112400;Dízel;136
